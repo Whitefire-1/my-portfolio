@@ -1,3 +1,2 @@
-# My DevOps Portfolio
-
-Hi, I am WhiteFire, and I am falling in love with DevOps.
+# My DevOps Portfoilo
+Hi, I'm WhiteFire and I'm loving DevOps.
